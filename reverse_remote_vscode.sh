@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#echo "REVERSE REMOTE VSCODE STARTED"
+#edit these variables:
 
 PORT=1234
 REMOTEUSER=yourremoteuser
